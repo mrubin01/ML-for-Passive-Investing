@@ -1,7 +1,3 @@
-# msc-data-science-project-2020_21---files-mrubin01
-msc-data-science-project-2020_21---files-mrubin01 created by GitHub Classroom
-
-Code for Machine Learning for passive investing
 
 The project has been subdivided into four stages
 
