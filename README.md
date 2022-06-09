@@ -1,5 +1,10 @@
+This project aims at investigating the potential of machine learning in forecasting the best stocks in the long-term. The idea underlying the project is 
+to use machine learning to predict which stocks will increase their value by a certain threshold after a certain number of years. Stocks coming from the 
+US stock exchanges (NYSE, NASDAQ) are used and their value at the end of a training period (ten years) is compared with that after additional one, three and five years. The model proposed will be trained by using fundamental data, that is data coming from Balance Sheet, Cash Flow and Income Statement, combined 
+with technical data (stock price and volume) as opposed to active investing where the stock price is used along with the metrics derived from it.
+From a technical point of view this is a supervised multilabel binary classification   
 
-The project has been subdivided into four stages
+The project has been subdivided into three stages and one demo
 
 DATA GATHERING AND PREPROCESSING
 * NYSE and NASDAQ stocks active over the whole period between the first quarter of 2000 and the last quarter of 2014. The other stocks have been excluded.
